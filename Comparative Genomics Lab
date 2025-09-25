@@ -1,0 +1,79 @@
+#General statistics:
+
+Which genomes did you choose?
+ANS: I chose the genomes of Mitochondrion Thylamys elegans and Mitochondrion Eudromia elegans for my work.
+
+What was your rationale?
+ANS: Although they are both elegans, but they differ in their evolution; Eudromia is a bird class and Thylamys is a mammal, but I want to test if they have a common lineage and conserved genes during the evolutionary process.
+
+Are these two genomes well assembled?
+ANS: Yes, both genomes are well assembled.
+
+How many contigs/scaffolds are there?
+ANS: 1 contigs; Mitochondrion Thylamys elegans (NC_005825.gbk) and Mitochondrion Eudromia elegans (NC_002772.gbk).
+
+Are your species diploid, polyploid, or a combination of both?
+ANS: Both of the species are diploid.
+
+Can you tell who sequeunced that genome or what technology was used (the answer might be no here, anyone can upload things, so it might not be clear)
+ANS: No such information found.
+
+
+#Macrosynteny
+
+Paste in your macrosyntenic dotplot. What is your interpretation?
+
+
+Do these two species/ or genome versions have good macrosynteny? Is there clear evidence of polyploidy?
+ANS: They share macrosynteny, as we can see in the regions in the above figure. Both organisms are diploid in nature and show no clear signs of polyploidy.
+
+
+How similar do you think these species are? Do the syntenic dotplots match your expectations based on how close they are phylogenetically?
+ANS: The diagonal lines with gaps in between show that there are some syntenic genes in between that are conserved in both species. The gaps in between the diagonal line suggest the missing or non-syntenic genes in both organisms.
+Yes, the dotplot matches my expectation because they are from different classes: aves and mammals, and are supposed to have a different genetic makeup, although they would share some genetic composition and evolutionary history.
+They have the following metrics: 
+
+HSP:	1  (NC_005825.gbk-NC_002772.gbk)
+Location:	18-13,556 (++)
+Match:	9107 nt
+Length:	13,539 nt
+Identity:	69.51%
+E_val:	N/A
+Score:	452468
+
+
+HSP:	2  (NC_005825.gbk-NC_002772.gbk)
+Location:	14,227-15,450 (++)
+Match:	862 nt
+Length:	1,224 nt
+Identity:	71.20%
+E_val:	N/A
+Score:	52637
+
+This shows they have a common identity of 69-71 % in their genetic makeup.
+
+
+Are there any inversions or large-scale chromosomal rearangements? If so, list a few (e.g., Sorghum choromosome 1 and Rice chromosome 7 are syntenic, but there is a large inversion) Note: this might be very difficult to assess if you picked highly divergent species.
+ANS: No clear inversions noted.
+
+Are these genomes well assembled or is one/both highly fragmented? How does that affect your interpretation?
+ANS: Yes, they are well-assembled and share a similar genetic makeup to some extent with a common identity of around 69-71%. Have good signs of evolutionary lineage.
+
+
+#Microsynteny
+
+Select one region and look closer at it using GEvo. Paste a screenshot of this region.
+
+What chromosomal regions did you choose?
+ANS: In the species Mitochondrion Thylamys elegans, I have chosen the chromosomal regions of 1-15452, whereas in the species Mitochondrion Eudromia elegans, it is 1-18305.
+
+Is there strong microsynteny? How much of the sequnence or gene models in that region are conserved?
+ANS: Yes, there is a strong microsynteny in the organisms. The straight diagonal lines show a clear synteny, although the gaps in between suggest a breakage.
+69-71 % of gene models are conserved.
+
+Are there noticeable gaps, expansions, or rearangements between these two species? If so, what might be causing them?
+ANS: Yes, there are noticeable gaps between the two species, as they belong to different classes of animalia. The diagonal line dotplot also shows a lineage; however, the gaps in between the diagonal line show the breakage or gaps.
+This could be due to various reasons in the biological and evolutionary processes; it could be gene duplication, mutation, and other processes; hard to pinpoint the exact reason.
+
+What is the sequence homology (e.g., average nucleotide conservation between the two species?
+ANS: 4.	They have a common identity of 69-71 % in their genetic makeup. So, nearly 70% of sequence homology.
